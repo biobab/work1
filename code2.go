@@ -1,4 +1,4 @@
 package main
 import "fmt"
 
-fmt.Println("Nice pussy sis.")
+fmt.Println("Nice cock bro.")
