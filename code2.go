@@ -1,4 +1,4 @@
 package main
 import "fmt"
 
-fmt.Println("Well job good done bro.")
+fmt.Println("Good job well done.")
